@@ -1,0 +1,108 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.21.13.6909
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\crawf\UnityProjects\DynamicEnvironmentRPG\atarxia_game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\crawf\UnityProjects\DynamicEnvironmentRPG\atarxia_game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\crawf\UnityProjects\DynamicEnvironmentRPG\atarxia_game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\crawf\UnityProjects\DynamicEnvironmentRPG\atarxia_game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\crawf\UnityProjects\DynamicEnvironmentRPG\atarxia_game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\crawf\UnityProjects\DynamicEnvironmentRPG\atarxia_game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\crawf\UnityProjects\DynamicEnvironmentRPG\atarxia_game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\crawf\UnityProjects\DynamicEnvironmentRPG\atarxia_game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.030 seconds
+Platform assembly: C:\Users\crawf\UnityProjects\DynamicEnvironmentRPG\atarxia_game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\crawf\UnityProjects\DynamicEnvironmentRPG\atarxia_game_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.513192 ms
+New item added.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New item added.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New item added.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+tenku_outskirts
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+entered
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.424698 ms
+
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 2728.
+Total: 1.013334 ms (FindLiveObjects: 0.202666 ms CreateObjectMapping: 0.039901 ms MarkObjects: 0.689778 ms  DeleteObjects: 0.080592 ms)
+
+king_blob_forest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+entered
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.238125 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 4519.
+Total: 1.963064 ms (FindLiveObjects: 0.493827 ms CreateObjectMapping: 0.052543 ms MarkObjects: 1.359804 ms  DeleteObjects: 0.054123 ms)
+
+tenku_outskirts
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+entered
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.489682 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2728.
+Total: 1.122372 ms (FindLiveObjects: 0.215308 ms CreateObjectMapping: 0.035555 ms MarkObjects: 0.845038 ms  DeleteObjects: 0.025283 ms)
+
+tenku_city
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+entered
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.201779 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 5141.
+Total: 1.567607 ms (FindLiveObjects: 0.321580 ms CreateObjectMapping: 0.052938 ms MarkObjects: 1.142915 ms  DeleteObjects: 0.048987 ms)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+entered
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot load scene: Invalid scene name (empty string) and invalid build index -1
+ 
+(Filename:  Line: 141)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2894 -> priority: 1 
+  Thread -> id: 3290 -> priority: 1 
